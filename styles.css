@@ -97,6 +97,7 @@
     .gallery {
         gap: 20px;
         padding: 10px;
+        width: 320px;
     }
     
     .text-overlay {
