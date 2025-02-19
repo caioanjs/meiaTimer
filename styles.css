@@ -80,8 +80,6 @@
             line-height: 0.5;
         }
 
-<!--MOBILE--!>
-
 @media (max-width: 768px) {
     .top-bar {
         height: 120px;
